@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BaptisteBourut
 - 👀 I’m interested in WEB DESIGN
-- 🌱 I’m currently learning JS / JAVA 
+- 🌱 I’m currently learning JS / JAVA / HTML / CSS / PHP
 
 
 <!---
