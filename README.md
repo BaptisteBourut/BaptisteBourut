@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @BaptisteBourut
 - 👀 I’m interested in Programmation
 - 🌱 I’m currently learning JS / JAVA / HTML / CSS / PHP / SQL / C++
+- Learning: JQuery / Node.JS / Symfony 
 
 
 <!---
